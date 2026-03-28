@@ -1,0 +1,2 @@
+This is the first file iam trying to do.
+creating first file to understand and get hands on practice on GIT conmmands
