@@ -1,0 +1,2 @@
+This is the second file for better understanding of GIT
+Trying to add few more lines of code for the second line
